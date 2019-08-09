@@ -11,9 +11,9 @@ import java.io.IOException;
 
 public class _0_Test {
     public static void main(String[] args) {
-        String path = "C:\\Java Developer\\lesson-018\\file.txt";
-        String hello = "hello";
-        String world = "world";
+        String path = "C:\\Java Developer\\lesson-018\\file1.txt";
+        String hello = "Dom";
+        String world = "Sweet";
         String _1234 = "1234";
         try {
             File file = new File(path);
