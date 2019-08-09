@@ -1,0 +1,21 @@
+C:\Java Developer\lesson-018\tepmsrc\file.txt
+file.txt
+1565349436728
+C:\Java Developer\lesson-018\tepmsrc\file1.txt
+file1.txt
+1565349057228
+C:\Java Developer\lesson-018\tepmsrc\file2.txt
+file2.txt
+1565349437255
+C:\Java Developer\lesson-018\tepmsrc\tepmdest
+tepmdest
+1565363332323
+C:\Java Developer\lesson-018\tepmsrc\tepmdest\fileInner.txt
+fileInner.txt
+1565360940481
+C:\Java Developer\lesson-018\tepmsrc\tepmdest\fileInner1.txt
+fileInner1.txt
+1565360940501
+C:\Java Developer\lesson-018\tepmsrc\tepmdest\fileInner2.txt
+fileInner2.txt
+1565360940501
